@@ -5,10 +5,10 @@ import { theme } from "../theme";
 // import { Inter } from "next/font/google";
 // const inter = Inter({ subsets: ["latin"] });
 
-export const metadata = {
-  title: "Syncer.io",
-  description: "Sync your data",
-};
+// export const metadata = {
+//   title: "Syncer.io",
+//   description: "Sync your data",
+// };
 
 export default function RootLayout({ children }) {
   return (
