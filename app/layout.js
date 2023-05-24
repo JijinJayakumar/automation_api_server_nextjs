@@ -1,3 +1,4 @@
+"use client";
 import "./globals.css";
 import withTheme from "../theme";
 // import { Inter } from "next/font/google";

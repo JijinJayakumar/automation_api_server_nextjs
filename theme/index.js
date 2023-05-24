@@ -1,4 +1,4 @@
-// import React from "react";
+// "use client";
 import { ConfigProvider } from "antd";
 
 const withTheme = (node) => (
